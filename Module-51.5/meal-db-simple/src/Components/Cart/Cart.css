@@ -1,0 +1,14 @@
+.cart{
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100%;
+    padding: 20px;
+}
+.cart h1 {
+    text-align: center;
+}
+
+.sizeImage{
+    width: 200px;
+    height: 200px;
+}

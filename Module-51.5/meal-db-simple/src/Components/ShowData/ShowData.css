@@ -1,0 +1,27 @@
+.img-cut{
+    width: 300px;
+    height: 400px;
+    
+}
+.child{
+    background-color: orange;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+.child h3 {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.add-to-cart{
+    background-color: rgb(56, 54, 50);
+    color: white;
+    padding-inline-start: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    border-radius: 20px;
+}

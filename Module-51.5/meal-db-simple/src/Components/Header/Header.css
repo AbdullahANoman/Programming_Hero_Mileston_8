@@ -1,0 +1,17 @@
+.nav{
+    background-color: rgb(70, 67, 67);
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+
+}
+
+nav a:hover{
+    color: orange;
+    font-size: 20px;
+}
